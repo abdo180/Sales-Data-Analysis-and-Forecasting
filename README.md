@@ -37,5 +37,7 @@ If using Google Colab, ensure you run `!pip install` commands within the noteboo
 - **Forecasting**: Future sales are predicted to assist in inventory planning and marketing.
 
 ---
+thanks  for             
+
 
 
